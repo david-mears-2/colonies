@@ -48,9 +48,21 @@ Since foragers don't always choose to waggle-dance irl, it could be interesting 
 
 Thing is, the choice of whether to do the dance is irl actually about whether we want other bees to also visit that location. This implies a different level of control than the individual bee: instead of telling individual foragers to go to that spot, this would be nudging the foragers as a whole to favour that spot. So, what is automatic, and what is dictated by the player?
 
+One possible idea is that the fog-of-war map the player sees is a SUB set, not superset, of what the bees have all explored. So you might see a bee returning from the fog of war, having discovered (or not) some new forage. In order to promote the information to hive-level (player-level) knowledge, the bee must reach the hive and perform a waggle dance - tbd whether player controls that choice of whether to dance. But once the dance is done, the new information populates the player's map of the world.
+
+# Fog of war
+
+I like the version where ((wikipedia))[https://en.wikipedia.org/wiki/Fog_of_war] "without a unit actively observing, previously revealed areas of the map are subject to a shroud through which only terrain is visible, but changes in enemy units or bases [and in my case, plant growth/depletion] are not."
+
 # Should it be turn-based on real-time?
 
 (Note interaction with the question of whether it should be multiplayer or single-player -- real-time probably introduces extra complication if playing 'live' against others over a network.)
+
+[Wikipedia section](https://en.wikipedia.org/wiki/Real-time_strategy#Rushing_vs._planning):
+
+> A third common criticism is that real-time gameplay often degenerates into "rushes" where the players try to gain the advantage and subsequently defeat the opponent as quickly in the game as possible, preferably before the opposition is capable of successfully reacting. [...] the game outcome is often decided very early on by one player gaining an initial advantage in resources and producing large amounts of a relatively powerful but still quite cheap unit—which is thrown at the opposition before they have had time to establish defenses or production [...] Some games have since introduced designs that do not easily lend themselves to rushes. For example, the Hegemony series made supply and (seasonal) resource management an integral part of its gameplay, thus limiting rapid expansion.
+
+
 
 ### It occurred to me to wonder if there is some middle ground between real-time and turn-based.
 
@@ -79,6 +91,8 @@ Full-scale hive invasions: irl bees can try to control honey stores or whole hiv
 Another strategy (corresponding to irl 'usurpation swarms') is one of decapitation: if you kill the resident queen, you can take over the workforce and the resources. See usurpation steps in facts-about-bees.md. A simplified implementation of the multi-step process would be that if you kill the queen, a pheromone blast pretty quickly (one turn?) converts the bees inside the hive into the enemy team. Or that an enemy queen in a hive can release her pheromones to convert nearby bees regardless of whether the original queen is dead (optionally model the 'confusion' stage of conversion). The sneaky entering is also an interesting type of strategy the deserves some thought as to how to make it inconspicuous (probably using whatever mechanic by which 'silent robbing' works).
 
 Blockading (hive or resource): bees can monopolize resources, making fighting more interesting because it becomes about where you choose to prioritise sending your fighters, and you can do sneak raids in more than one location. 'Patrolling' an area could be an automatable mechanic that functions both as an aggressive monopolization or a defense.
+
+Defensive strategy: make the opening of your hive narrower, or even block it off entirely (some stingless bees do this at night). This raises the possibility of 'sieging' a hive if you think you can benefit by depriving it of resources.
 
 ## Symbiosis
 
@@ -126,3 +140,11 @@ This could be useful if we go for a more zoomed-out, superorganism-friendly styl
 ### Roles
 
 Claude: "This division of labor isn't completely rigid though - bees can adapt and change roles based on colony needs and conditions." So maybe there should be a mixture of automatic role allocation by age, and player editing on top of that starting point.
+
+# Future expansion of the game
+
+Could have woodfaeries or miniature dragons as alternative 'civilizations' people can play, to open up other tactics and variety. Or stick to realism and have different species of bee. See facts-about-bees.md for details on other species.
+
+# Naming
+
+If I need an un-taken name, "(The) Colonisers" is untaken. Also consider "For the colony" - though googling this does bring up several (insect!) games by that name. 'Age of Colonies'. 'Apis', 'Apis mellifera'. 'Eusocial'.

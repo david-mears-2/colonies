@@ -176,3 +176,118 @@ The information dances encode are:
 - The approximate direction of the resource
 - The approximate distance (directionally proportional to the duration of the waggle phase)
 Once at the location, recruited foragers then search about for the described bounty.
+
+# Other species of bees for future game expansion
+
+It would be fun to have the player select a bee 'tribe' (in the biological sense) simply for the collision (cross-pollination?) with the concept of a 'civilisation' as in AoE2.
+
+"The only other domesticated [Apis] bee is the eastern honey bee (Apis cerana), which occurs in South, Southeast, and East Asia [...] some other [non-Apis] types of bees produce and store honey and have been kept by humans for that purpose, including the stingless bees belonging to the genus Melipona and the Indian stingless or dammar bee Tetragonula iridipennis." Then there's 'Africanized honey bees' also known as killer bees. 
+
+The group of 'corbiculate' (pollen-basket-having) bees has four big subgroups: honey bees (Apini tribe), orchid bees (Euglossini), bumblebees (Bombini), and stingless bees (Meliponini). Then there's "Bee species with no pollen baskets have scopae, which fulfil a similar role" - not sure if any such bees are eusocial.
+
+## Meliponini tribe (500 species) / Melipona genus (70 species)
+
+The main honey-producing bees of this group generally belong to the genera Scaptotrigona, Tetragonisca, Melipona and Austroplebeia
+
+NB Winston & Michener indicate that eusociality has arisen independently in the Apinae and Meliponinae
+
+"Meliponines, considered highly eusocial insects, exhibit a remarkable caste division [having soldiers as a caste as well as the other things honeybees have]" and create cerumen to build their hives.
+
+"Ripening concentrates the nectar and increases the sugar content, though it is not nearly as concentrated as the honey from Apis mellifera. [...] Stingless bee honeys differ from A. mellifera honey in terms of color, texture, and flavor, being more liquid with a higher water content. Rich in minerals, amino acids, and flavonoid compounds, the composition of honey varies among colonies of the same species, influenced by factors such as season, habitat, and collected resources."
+
+"Stingless bees, as a collective group, display remarkable adaptability to diverse nesting sites. They can be found in exposed nests in trees, from living in ant and termite nests above and below ground to cavities in trees, trunks, branches, rocks, or even human constructions."
+
+### Exposed nests
+
+"Notably, certain species, such as the African Dactylurina, construct hanging nests from the undersides of large branches for protection against adverse weather conditions. Additionally, some American Trigona species, including T. corvina, T. spinipes, and T. nigerrima, as well as Tetragonisca weyrauchi, build fully exposed nests."
+
+"A significant minority of meliponine species, belonging to genera like Camargoia, Geotrigona, Melipona, Mourella, Nogueirapis, Paratrigona, Partamona, Schwarziana, and others, opt for ground nests. These species take advantage of cavities in the ground, often utilizing abandoned nests of ants, termites, or rodents." "The majority of stingless bees favor nesting in pre-existing cavities within tree trunks or branches."
+
+### Different brooding behaviour.
+
+In Apis colonies, queens lay eggs into reusable empty cells, which are then progressively provisioned over several days before final sealing. But Mellipona have a practice of "mass provisioning"
+
+### Swarming
+
+Unlike honey bees, stingless bee colonies are unable to perform absconding - a term denoting the abandonment of the nest and migration to a new location - making them reliant on alternative strategies to cope with challenges
+
+### Fighting
+
+Unlike other eusocial bees, they do not sting, but will defend by biting if their nest is disturbed.
+
+### Defense tactics
+
+They use camouflage and mimicry to blend into their surroundings or imitate other animals to avoid detection.
+
+Nest entrance guards play a vital role in colony defense by actively preventing unauthorized entry through attacking intruders and releasing alarm pheromones to recruit additional defenders. It is worth noting that nest guards often carry sticky substances, such as resins and wax, in their corbiculae or mandibles. Stingless bees apply substances to attackers to immobilise them, thus thwarting potential threats to the colony. Some species (Tetragonisca angustula and Nannotrigona testaceicornis, for example) also close their nest entrances with a soft and porous layer of cerumen at night, further enhancing colony security during vulnerable periods.
+
+## Bumble bee (Bombus) - 250 species
+
+The colonies are smaller than those of honey bees, growing to as few as 50 individuals in a nest. (50-400 usually, compared to 50,000 for honeybee hives.) "Compared to honey bees and carpenter bees, bumblebees have the lowest chill-coma temperature."
+
+The largest bumblebee species in the world is B. dahlbomii of Chile, up to about 40 mm (1.6 in) long, and described as "flying mice" and "a monstrous fluffy ginger beast"
+
+### Advantage 1 over other tribes
+
+Bumblebees are active under conditions during which honeybees and other smaller bees stay at home, and can readily absorb heat from even weak sunshine.
+
+### Advantage 2
+
+Unlike in honeybees, a bumblebee's stinger lacks barbs, so the bee can sting repeatedly without leaving the stinger in the wound and thereby injuring itself.
+
+### Disadvantage 1
+
+No sophisticated waggle dances, convey less information:
+
+> Bumblebees do not exhibit the "bee dances" used by honeybees to tell other workers the locations of food sources. Instead, when they return from a successful foraging expedition, they run excitedly around in the nest for several minutes before going out to forage once more. These bees may be offering some form of communication based on the buzzing sounds made by their wings, which may stimulate other bees to start foraging.
+
+### Disadvantage 2
+
+Unlike honeybees, bumblebees only store a few days' worth of food, so are much more vulnerable to food shortages.
+
+### Nest
+
+A bumblebee nest is not organised into hexagonal combs like that of a honeybee; the cells are instead clustered together untidily. ... Nests in temperate regions last only for a single season and do not survive the winter.
+
+### Winter diapause
+
+The drones and workers die as the weather turns colder; the young queens feed intensively to build up stores of fat for the winter. They survive in a resting state (diapause) [kinda hibernation], generally below ground, until the weather warms up in the spring. The common UK species 'early bumblebee' is among the earliest to come out, in Feb.
+
+### Workers and queens compete to lay eggs
+
+Because of the reproductive competition between workers and the queen, bumblebees are considered "primitively eusocial".
+
+### Scent communication feature, not sure if unique to bumblebees
+
+In at least some species, once a bumblebee has visited a flower, it leaves a scent mark on it. This scent mark deters bumblebees from visiting that flower until the scent degrades. [...] they learn to use this bouquet to identify both rewarding and unrewarding flowers
+
+## The Euglossines (Euglossini - 200 species)
+
+They are green! (And a few other colours - glossy.) Really long tongues.
+
+Five genera: Euglossa, Eulaema, Eufriesea, Exaerete and the monotypic Aglae. These last two are kleptoparasitical only.
+
+They collect mud (I think another tribe was mentioned to collect clay) for building.
+
+Their tongues, measuring up to 4 cm (1.6 inches) in some species, are used to access deep, narrow flower structures, some of which can only be reached by euglossines.
+
+Only some of the euglossini are eusocial. Wasn't quite able to determine the maximum extent of this from the 'Sociality' section of https://www.jstor.org/stable/2097073, but the 'Discussion' section includes this info:
+
+> Eufriesa often form aggregations, but the cluster of nests can scarcely be called a colony. Those Euglossa species that build aerial nests
+are solitary, though perhaps secondarily so. The cordata and purpurea
+species groups of Euglossa appear communal, with siblings, as far as
+known, working on independent clusters of cells. *Euglossa intersecta and
+the piliventris species group, like Eulaema, are clearly communal, and
+possibly even quasisocial, though the evidence for this is sparse*.
+
+This might be the most social species: https://en.wikipedia.org/wiki/Euglossa_cordata#Colony_cycle
+
+
+### An advantage
+
+They fly faster. https://www.jstor.org/stable/2097073
+
+### A disadvantage
+
+Being adapted to the tropics I'm sure northerly climes would kill them in winter. So maybe they need to be overpowered so they have a compensatory 
+advantage so they can plausibly win before winter... I guess the fact they fly faster could mean they could be billed overall as a 'quick' tribe: quick-flying and relying on quick-winning.
