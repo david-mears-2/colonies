@@ -8,9 +8,11 @@ I really enjoy the set-up phase of AoE games, i.e. the bit where you try to buil
 
 I'm inspired by Battle for Wesnoth that we don't actually need things to all be the correct scale - in that game, individual people take up the same amount of space as villages and forests! So we could have e.g. flowers/trees take up the same amount of 'board' space as individual hexes in a honeycomb. Though that might be a too-extreme example; possibly instead your hive is a link to a different map, which is hidden from the adversary in terms of fog-of-war.
 
-I like the idea of skewing the hex map somewhat (left-right and also squish top-down), taking us from birds-eye-view a la Battle for Wesnoth to 2.5-D a la Age of Empires (though I think AoE doesn't have left-right skew?). If the skew is draggable by right-click we could even have the viewer look at the map from a variety of 'angles'! Sprites such as bees or trees would not need to be rotated / skewed in that case; only terrain would.
+I like the idea of skewing the hex map somewhat (left-right and also squish top-down), taking us from birds-eye-view a la Battle for Wesnoth to 2.5-D a la Age of Empires (though I think AoE doesn't have left-right skew?). If the skew is draggable by right-click we could even have the viewer look at the map from a variety of 'angles'! (Could be useful for looking behind trees...) Sprites such as bees or trees would not necessarily need to be rotated / skewed in that case; only terrain would.
 
-Could be a pleasant halfway point between AoE2 and Wesnoth by having the hex tiles be relatively small and out-of-the-way (borders not overly visible)
+Could be a pleasant halfway point between AoE2 and Wesnoth by having the hex tiles be relatively small and out-of-the-way (borders not overly visible).
+
+In a future iteration, hexes could be elevated to create elevation, a la the board game Heroscape. This would probably have no game relevance? Just prettyness.
 
 ## Scale and how will hives be represented visually
 
